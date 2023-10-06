@@ -35,6 +35,10 @@ Now, to push the current branch and set the remote as upstream, use
 
 ##### _Note: Replace PERSONAL-ACCESS-TOKEN with your actual GitHub Personal Access Token and REPO-NAME with the name of your repository for both solutions._
 
+`If you want to see how to generate a _PERSONAL-ACCESS-TOKEN_ please follow this documnetation`
+
+`Just click here,` [PERSONAL-ACCESS-TOKEN](https://www.python.org/downloads/)
+
 <br/>
 
 ### What is done there actually?
