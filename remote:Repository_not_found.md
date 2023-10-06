@@ -29,6 +29,10 @@ Now, add a new remote URL with your Personal Access Token. And run the following
 
     git remote add origin https://mehedishovon01:PERSONAL_ACCESS_TOKEN@github.com/mehedishovon01/REPO_NAME.git
 
+Now, to push the current branch and set the remote as upstream, use
+
+    git push -u origin main
+
 ##### _Note: Replace PERSONAL-ACCESS-TOKEN with your actual GitHub Personal Access Token and REPO-NAME with the name of your repository for both solutions._
 
 <br/>
